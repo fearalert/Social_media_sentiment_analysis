@@ -8,6 +8,7 @@ Social media platforms like Twitter, Instagram, and Facebook generate vast amoun
 
 The dataset contains the following columns:
 
+```bash
 **Unnamed: 0:** Index column (can be ignored for analysis)
 **Text:** The content of the post
 **Sentiment:** The sentiment of the post (Positive, Negative, Neutral)
@@ -22,6 +23,7 @@ The dataset contains the following columns:
 **Month:** Month the post was made
 **Day:** Day of the month the post was made
 **Hour:** Hour the post was made
+```
 
 ## Step 1: Create a Virtual Environment
 
