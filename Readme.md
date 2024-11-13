@@ -70,9 +70,17 @@ git clone <repo_url>
 
 4. Activate the virtual environment:
 
+If Linux:
+
 ```bash
    source myenv/bin/activate
    ```
+
+If Windows:
+
+```bash
+.\myenv\Scripts\activate
+```
 
 Once the virtual environment is activated, you'll see `(myenv)` before the prompt, indicating that the environment is active.
 
