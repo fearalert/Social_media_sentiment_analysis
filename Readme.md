@@ -8,20 +8,22 @@ Social media platforms like Twitter, Instagram, and Facebook generate vast amoun
 
 The dataset contains the following columns:
 
-**Unnamed: 0:** Index column (can be ignored for analysis)
-**Text:** The content of the post
-**Sentiment:** The sentiment of the post (Positive, Negative, Neutral)
-**Timestamp:** Date and time the post was made
-**User:** Username of the person who posted
-**Platform:** Social media platform (e.g., Twitter, Instagram, Facebook)
-**Hashtags:** Hashtags used in the post
-**Retweets:** The number of retweets (for Twitter posts)
-**Likes:** The number of likes the post received
-**Country:** The country where the user is based
-**Year:** Year the post was made
-**Month:** Month the post was made
-**Day:** Day of the month the post was made
-**Hour:** Hour the post was made
+```bash
+Unnamed: 0: Index column (can be ignored for analysis)
+Text: The content of the post
+Sentiment: The sentiment of the post (Positive, Negative, Neutral)
+Timestamp: Date and time the post was made
+User: Username of the person who posted
+Platform: Social media platform (e.g., Twitter, Instagram, Facebook)
+Hashtags: Hashtags used in the post
+Retweets: The number of retweets (for Twitter posts)
+Likes: The number of likes the post received
+Country: The country where the user is based
+Year: Year the post was made
+Month: Month the post was made
+Day: Day of the month the post was made
+Hour: Hour the post was made
+```
 
 ## Step 1: Create a Virtual Environment
 
