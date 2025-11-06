@@ -145,9 +145,3 @@ This project is focused on analyzing and cleaning social media data (tweets or p
 
 - Hashtags play a significant role in categorizing content on social media. The project will help identify the most popular hashtags and how they correlate with the post's engagement.
 - By examining hashtags, businesses can also understand current trends and tailor their content to popular discussions.
-
----
-
-### Conclusion
-
-By following this setup guide, you'll be ready to explore the social media data, uncover trends, and gain insights into user engagement. The tools used in this project—such as pandas for data manipulation, seaborn for visualization, and matplotlib for basic plotting—are industry-standard for data analysis and visualization.
